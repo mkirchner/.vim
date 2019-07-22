@@ -1,2 +1,2 @@
-# .vim
-My VIM config
+# dotfiles
+My dotfiles.
